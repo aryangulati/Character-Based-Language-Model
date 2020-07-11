@@ -1,4 +1,4 @@
-Character Based Language Model
+<b>Character Based Language Model</b>
 Have you ever wondered how Gmail automatic reply works? Or how your WhatsApp suggests the next word when texting? Or even how we can generate musical notes? The general way of generating a sequence of text is to train a model to predict the next word/character given all previous words/characters. Such a model is called a Statistical Language Model. What is a statistical language model?A statistical language model is a probability distribution over sequences of words trained on.
  The main task of it is to predict the next character given all previous characters in a sequence of data, i.e. generates text character by character. 
 
