@@ -5,6 +5,8 @@ The general way of generating a sequence of text is to train a model to predict 
 
 Markov chain is based on a principle of“memorylessness”. In other words the next state of the process only depends on the previous state and not the sequence of states.
 
+![Read My Blog here about Character-Based Language Model](https://medium.com/analytics-vidhya/character-based-language-model-759711370350)
+
 ![](https://miro.medium.com/max/600/0*ptbO9Bg8QIYvMvht)
 
  
